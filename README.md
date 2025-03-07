@@ -23,7 +23,7 @@ This project is a web scraper that extracts installer information from [XPEL's I
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/xpel-installers-scraper.git
+   git clone https://github.com/andrepradika/xpel-installers-scraper.git
    cd xpel-installers-scraper
    ```
 2. Install dependencies:
@@ -54,5 +54,5 @@ The script will generate two output files:
 This project is licensed under the MIT License.
 
 ## Author
-Andre pradika
+andrepradika
 
